@@ -17,9 +17,7 @@
   6. CNN
   7. MLP based AE (skip connections)
   8. CNN based AE (skip Connections)
-  9. MLP based VAE
-  10. CNN based VAE
- 
+  
 ### Data Augmentation (CNN, VAE)
 
   1. shifting waveforms randomly
